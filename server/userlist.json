@@ -1,0 +1,95 @@
+{
+  "userList": [
+    {
+      "username": "Syam wwwerfwef",
+      "email": "syam@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "username": "Satyam 1",
+      "email": "satyam@gmail.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "username": "arjun",
+      "email": "admin@gamail.com",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "username": "hello",
+      "email": "syam@gmail.com",
+      "password": "1232",
+      "id": 6
+    }
+  ],
+  "registerList": [
+    {
+      "id": 1,
+      "name": "ABC",
+      "email": "abc@gmail.com",
+      "password": "123"
+    },
+    {
+      "name": "Arjun maurya",
+      "email": "admin@gamail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "Arjun maurya",
+      "email": "admin@gamail.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "name": "arjun",
+      "email": "admin@gamail.com",
+      "password": "23",
+      "id": 4
+    },
+    {
+      "name": "av",
+      "email": "a@gmail.com",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "name": "bb",
+      "email": "bb@gmail.com",
+      "password": "12345",
+      "id": 7
+    },
+    {
+      "name": "mukesh kumar kushwaha",
+      "email": "arjunmaurya9621192312@gmail.com",
+      "password": "5",
+      "id": 8
+    },
+    {
+      "name": "arjun",
+      "email": "arjun@gmail.com",
+      "password": "123",
+      "id": 9
+    },
+    {
+      "name": "rashmi",
+      "email": "rashmi@gmail.com",
+      "password": "123",
+      "id": 10
+    },
+    {
+      "email": "rashmi@gmail.com",
+      "password": "123",
+      "id": 11
+    }
+  ]
+}
